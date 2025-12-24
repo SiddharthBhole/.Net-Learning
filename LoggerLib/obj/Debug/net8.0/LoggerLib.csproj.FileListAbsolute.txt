@@ -1,0 +1,11 @@
+C:\Users\dac\Desktop\BatchA\.Net\Day10\LoggerLib\bin\Debug\net8.0\LoggerLib.deps.json
+C:\Users\dac\Desktop\BatchA\.Net\Day10\LoggerLib\bin\Debug\net8.0\LoggerLib.dll
+C:\Users\dac\Desktop\BatchA\.Net\Day10\LoggerLib\bin\Debug\net8.0\LoggerLib.pdb
+C:\Users\dac\Desktop\BatchA\.Net\Day10\LoggerLib\obj\Debug\net8.0\LoggerLib.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\dac\Desktop\BatchA\.Net\Day10\LoggerLib\obj\Debug\net8.0\LoggerLib.AssemblyInfoInputs.cache
+C:\Users\dac\Desktop\BatchA\.Net\Day10\LoggerLib\obj\Debug\net8.0\LoggerLib.AssemblyInfo.cs
+C:\Users\dac\Desktop\BatchA\.Net\Day10\LoggerLib\obj\Debug\net8.0\LoggerLib.csproj.CoreCompileInputs.cache
+C:\Users\dac\Desktop\BatchA\.Net\Day10\LoggerLib\obj\Debug\net8.0\LoggerLib.dll
+C:\Users\dac\Desktop\BatchA\.Net\Day10\LoggerLib\obj\Debug\net8.0\refint\LoggerLib.dll
+C:\Users\dac\Desktop\BatchA\.Net\Day10\LoggerLib\obj\Debug\net8.0\LoggerLib.pdb
+C:\Users\dac\Desktop\BatchA\.Net\Day10\LoggerLib\obj\Debug\net8.0\ref\LoggerLib.dll
